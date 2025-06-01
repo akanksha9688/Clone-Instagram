@@ -53,6 +53,7 @@ This project is built to understand and practice building a modern full-stack we
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/instagram-clone.git
-cd instagram-clone
+git clone https://github.com/yourusername/Clone-Instagram.git
+cd Clone-Instagram
+
 
